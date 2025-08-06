@@ -6,6 +6,6 @@
         "other": "off",
         "strings": "off"
     },
-    "editor.suggest.showWords": false,
-    "editor.suggest.showSnippets": false
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showWords": false
 }
